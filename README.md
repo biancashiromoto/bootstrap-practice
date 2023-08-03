@@ -24,8 +24,8 @@ Você pode ver esta página <a href="https://bootstrap-practice-rho.vercel.app/"
 
 ## 🖼️ Screenshots
 <div >
-  <img style="width: 250px" src="./screenshots/screenshot-01.png" alt="Mobile version screenshot">
-  <img style="width: 500px" src="./screenshots/screenshot-02.png" alt="Tablet version screenshot">
+  <img style="width: 500px" src="./screenshots/screenshot-01.png" alt="Tablet version screenshot">
+  <img style="width: 200px" src="./screenshots/screenshot-02.png" alt="Mobile version screenshot">
   <br>
   <img style="width: 750px" src="./screenshots/screenshot-03.png" alt="Desktop version screenshot">
 </div>
