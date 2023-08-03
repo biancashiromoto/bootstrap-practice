@@ -24,10 +24,10 @@ Você pode ver esta página <a href="https://bootstrap-practice-rho.vercel.app/"
 
 ## 🖼️ Screenshots
 <div >
-  <img style="width: 250px" src="./mobile.png" alt="Mobile version screenshot">
-  <img style="width: 500px" src="./tablet.png" alt="Tablet version screenshot">
+  <img style="width: 250px" src="./screenshots/screenshot-01" alt="Mobile version screenshot">
+  <img style="width: 500px" src="./screenshots/screenshot-02" alt="Tablet version screenshot">
   <br>
-  <img style="width: 750px" src="./desktop.png" alt="Desktop version screenshot">
+  <img style="width: 750px" src="./screenshots/screenshot-03" alt="Desktop version screenshot">
 </div>
 
 ## 🛠️ Technologies used/Tecnologias utilizadas
