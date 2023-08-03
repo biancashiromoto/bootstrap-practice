@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/biancashiromoto/bootstrap-practice/issues"
   },
-  "homepage": "https://github.com/biancashiromoto/bootstrap-practice#readme"
+  "homepage": "https://github.com/biancashiromoto/bootstrap-practice#readme",
+  "devDependencies": {
+    "eslint": "^8.46.0"
+  }
 }
