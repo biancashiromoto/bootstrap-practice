@@ -3,6 +3,10 @@
 ## 🇺🇸 About this project
 
 This is a simple web page built to practice using the Bootstrap framework's components, such as navbar, carousel, cards and icons.
+<br>
+The random images in this project are from <a href="http://picsum.photos" target="_blank">Lorem Picsum</a>.
+<br>
+You can check the web page <a href="https://bootstrap-practice-rho.vercel.app/" target="_blank">here</a>.
 
 > 💬 If you have any suggestions or feedbacks, I would be happy to recieve them through <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
@@ -11,6 +15,8 @@ This is a simple web page built to practice using the Bootstrap framework's comp
 ## 🇧🇷 Sobre este projeto
 
 Esta é uma página da web simples desenvolvida para praticar o uso dos componentes do <i>framework</i> Bootstrap, como barra de navegação, carrossel, cards e ícones.
+As imagens aleatórias deste projeto são do <a href="http://picsum.photos" target="_blank">Lorem Picsum</a>.
+Você pode ver esta página <a href="https://bootstrap-practice-rho.vercel.app/" target="_blank">aqui</a>.
 
 > 💬 Se tiver alguma sugestão ou feedback, eu ficaria feliz em recebê-los pelo meu <a href="https://www.linkedin.com/in/bshiromoto/" target="_blank">LinkedIn</a>!
 
@@ -18,10 +24,10 @@ Esta é uma página da web simples desenvolvida para praticar o uso dos componen
 
 ## 🖼️ Screenshots
 <div >
-  <img style="width: 150px" src="./mobile.png" alt="Mobile version screenshot">
-  <img style="width: 300px" src="./tablet.png" alt="Tablet version screenshot">
+  <img style="width: 250px" src="./mobile.png" alt="Mobile version screenshot">
+  <img style="width: 500px" src="./tablet.png" alt="Tablet version screenshot">
   <br>
-  <img style="width: 500px" src="./desktop.png" alt="Desktop version screenshot">
+  <img style="width: 750px" src="./desktop.png" alt="Desktop version screenshot">
 </div>
 
 ## 🛠️ Technologies used/Tecnologias utilizadas
